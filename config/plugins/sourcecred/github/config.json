@@ -31,11 +31,5 @@
     "1Hive/time-lock-app",
     "1Hive/redemptions-app",
     "1Hive/token-oracle",
-    "1Hive-tulip/uniswap-info",
-    "1Hive-tulip/default-token-list",
-    "1Hive-tulip/uniswap-v2-periphery",
-    "1Hive-tulip/uniswap-interface",
-    "1Hive-tulip/uniswap-org",
-    "1Hive-tulip/uFragments",
-    "1Hive-tulip/uniswap-sdk",
-    "1Hive-tulip/uniswap-v2-core"]}
+    "1Hive/honeyswap",
+    "1Hive/honeymaker"]}
