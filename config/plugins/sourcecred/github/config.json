@@ -1,5 +1,5 @@
 {"repositories": [
-    "1hive/pollen",
+    "1Hive/pollen",
     "1Hive/honey-pot",
     "1Hive/1hive-court",
     "1Hive/dandelion-template",
@@ -32,4 +32,10 @@
     "1Hive/redemptions-app",
     "1Hive/token-oracle",
     "1Hive/honeyswap",
-    "1Hive/honeymaker"]}
+    "1Hive/honeymaker",
+    "1Hive/uniswap-info",
+    "1Hive/uniswap-v2-subgraph",
+    "1Hive/uniswap-interface",
+    "1Hive/honeyswap-unipool-frontend",
+    "1Hive/unipool"
+]}
