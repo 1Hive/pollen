@@ -709,3 +709,4 @@
 {"action":{"identityId":"AeF033upCyf9Ek3saiXOEw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1600446399606,"uuid":"POM96Mqx1vBgZVdSr9FQ9w","version":"1"}
 {"action":{"identityId":"AeF033upCyf9Ek3saiXOEw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1600446443855,"uuid":"OhzU9e3iRoZYIyxTYo2nCw","version":"1"}
 {"action":{"amount":"25010000000000000000","from":"I0WyiDXkfnPx3PL8bAkKaw","memo":"distribution 2","to":"AeF033upCyf9Ek3saiXOEw","type":"TRANSFER_GRAIN"},"ledgerTimestamp":1600446599744,"uuid":"KzXELZGiPIg3gQlb94NpGQ","version":"1"}
+{"action":{"amount":"12790000000000000000","from":"TEorcxSg7ZT1AIJaVtv1pQ","memo":"distribution 2","to":"AeF033upCyf9Ek3saiXOEw","type":"TRANSFER_GRAIN"},"ledgerTimestamp":1600447195090,"uuid":"vGW5zg8dNeTBuaQso6rjOA","version":"1"}
