@@ -4905,3 +4905,5 @@
 {"action":{"amount":"1710000000000000000","from":"7OJKDCpP2uwTbPoaHxVXRA","memo":"distribution 4","to":"AeF033upCyf9Ek3saiXOEw","type":"TRANSFER_GRAIN"},"ledgerTimestamp":1601777671048,"uuid":"U8gEl3nSRWaxwli3r7JKXA","version":"1"}
 {"action":{"base":"lXW74kygoZqzzVD9hwt3Sw","target":"Gm6etEKOA3TD7J1bwceSxg","type":"MERGE_IDENTITIES"},"ledgerTimestamp":1601781431390,"uuid":"xYK5KgH6lfzT7x6xeHLzeA","version":"1"}
 {"action":{"identityId":"mIv8yLVvrPE83NWc2hRTkw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1601781518926,"uuid":"HgYTeKd0bVE5kAJcZx8mfA","version":"1"}
+{"action":{"base":"BjX4woWPDPkVipGt8lLuwQ","target":"CRsJeHkflb5YeUO55jhGtQ","type":"MERGE_IDENTITIES"},"ledgerTimestamp":1601829002779,"uuid":"0emcoB376cOXCn7adFjzcw","version":"1"}
+{"action":{"base":"BjX4woWPDPkVipGt8lLuwQ","target":"uMcp2xx5g6J1TJvxbu01Jg","type":"MERGE_IDENTITIES"},"ledgerTimestamp":1601829010040,"uuid":"L0LBoxpI4BHB44xeh1sp2g","version":"1"}
