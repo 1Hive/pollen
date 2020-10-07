@@ -4958,3 +4958,4 @@
 {"action":{"amount":"270000000000000000","from":"x53va6N2ijV8KawX0QljOw","memo":"dist 4","to":"AeF033upCyf9Ek3saiXOEw","type":"TRANSFER_GRAIN"},"ledgerTimestamp":1601924686853,"uuid":"vT8ZrRqpGlWL6NKQLyT7Qw","version":"1"}
 {"action":{"amount":"440000000000000000","from":"xMq2w2m4svy51agVnTZeag","memo":"dist 4","to":"AeF033upCyf9Ek3saiXOEw","type":"TRANSFER_GRAIN"},"ledgerTimestamp":1601924942516,"uuid":"osmskQlxSoFMDIP0sLiPMQ","version":"1"}
 {"action":{"amount":"520000000000000000","from":"WMpPfzlM3rdEIDhkRUasMA","memo":"dist 4","to":"AeF033upCyf9Ek3saiXOEw","type":"TRANSFER_GRAIN"},"ledgerTimestamp":1601929680293,"uuid":"y0Ehx4WLf1fgAf2JZkLLIw","version":"1"}
+{"action":{"base":"OGbpxXAN97EdAeiAlAHwxw","target":"NAjIYFOtEApfEZH54OVHQw","type":"MERGE_IDENTITIES"},"ledgerTimestamp":1601937045601,"uuid":"KjOofvsXofEbK6bKP0LVYQ","version":"1"}
