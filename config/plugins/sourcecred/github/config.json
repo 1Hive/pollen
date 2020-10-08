@@ -36,7 +36,9 @@
     "1Hive/uniswap-info",
     "1Hive/uniswap-v2-subgraph",
     "1Hive/uniswap-interface",
+    "1Hive/default-token-list",
     "1Hive/honeyswap-unipool-frontend",
     "1Hive/unipool",
-    "1Hive/honeycomb-subgraph"
+    "1Hive/honeycomb-subgraph",
+    "1Hive/assistant-bee"
 ]}
