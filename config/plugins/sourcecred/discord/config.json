@@ -10,7 +10,7 @@
   },
   "roleWeightConfig": {
     "defaultWeight": 0,
-    "roleWeights": {
+    "weights": {
       "771534378110287913": 0.5,
       "771534371588276274": 1,
       "762085832181153872": 1,
@@ -19,7 +19,7 @@
   },
   "channelWeightConfig": {
     "defaultWeight": 1,
-    "channelWeights": {
+    "weights": {
       "762601269797322762": 0,
       "708186897658150962": 0,
       "758821739202347038": 0,
