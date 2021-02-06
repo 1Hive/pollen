@@ -2,13 +2,13 @@
     "intervalLength": "WEEKLY",
     "plugins": {
       "sourcecred/github": [
-        {"startTime": "2020-11-22", "budget": 200}
+        {"startTime": "2020-11-22", "budget": 300}
       ],
       "sourcecred/discord": [
-        {"startTime": "2020-11-22", "budget": 150}
+        {"startTime": "2020-11-22", "budget": 400}
       ],
       "sourcecred/discourse": [
-        {"startTime": "2020-11-22", "budget": 150}
+        {"startTime": "2020-11-22", "budget": 300}
       ]
     }
   }
