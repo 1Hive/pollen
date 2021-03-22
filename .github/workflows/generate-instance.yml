@@ -10,7 +10,7 @@ on:
 
 jobs:
   GenerateCredInstance:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     env:
       NODE_OPTIONS: --max_old_space_size=4096
     steps:
