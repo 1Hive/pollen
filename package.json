@@ -14,6 +14,7 @@
     "clean-all": "yarn clean && rimraf output",
     "load": "sourcecred load",
     "graph": "sourcecred graph",
+    "go": "sourcecred go",
     "site": "sourcecred site",
     "serve": "sourcecred serve",
     "grain": "sourcecred grain"

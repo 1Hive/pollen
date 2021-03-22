@@ -28,7 +28,7 @@ jobs:
         run: yarn --frozen-lockfile
 
       - name: Load Data and Compute Cred 🧮
-        run: yarn sourcecred go
+        run: yarn go
         env:
           SOURCECRED_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
