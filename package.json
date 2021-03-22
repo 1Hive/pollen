@@ -12,15 +12,14 @@
   "scripts": {
     "clean": "rimraf cache site",
     "clean-all": "yarn clean && rimraf output",
-    "load": "sourcecred load",
-    "graph": "sourcecred graph",
-    "score": "sourcecred score",
-    "site": "sourcecred site",
-    "serve": "sourcecred serve",
+    "load": "dotenv sourcecred load",
+    "start": "dotenv sourcecred go --no-load && sourcecred serve",
+    "go": "dotenv sourcecred go",
     "grain": "sourcecred grain"
   },
   "devDependencies": {
     "pako": "^2.0.3",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "dotenv-cli": "^4.0.0"
   }
 }
