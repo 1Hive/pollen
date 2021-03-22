@@ -52,8 +52,6 @@ Then, run the following commands to update the instance:
   plugins, or it can load only specific plugins if requested.
 - `yarn graph  [...plugins]` regenerates plugin graphs from the cache;
   these graphs get saved in `output/`
-- `yarn score` computes Cred scores, combining data from all the chosen
-  plugins
 - `yarn grain` distributes Grain according to the current Cred scores, and the config in `config/grain.json`
 
 **Generate the frontend:**
