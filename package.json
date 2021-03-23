@@ -15,7 +15,8 @@
     "load": "dotenv sourcecred load",
     "start": "dotenv sourcecred go --no-load && sourcecred serve",
     "go": "dotenv sourcecred go",
-    "grain": "sourcecred grain"
+    "grain": "sourcecred grain",
+    "site": "sourcecred site"
   },
   "devDependencies": {
     "pako": "^2.0.3",
