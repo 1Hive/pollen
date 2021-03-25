@@ -2,7 +2,6 @@
     "repositories": [
         "1Hive/pollen",
         "1Hive/honey-pot",
-        "1Hive/celeste-contracts",
         "1Hive/dandelion-template",
         "1Hive/conviction-voting-app",
         "1Hive/1hive-network-deploy",
@@ -45,7 +44,6 @@
         "1Hive/conviction-voting-cadcad",
         "1Hive/honeycomb",
         "1Hive/voting-connectors",
-        "1Hive/celeste-backend",
         "1Hive/honeyswap-landing-page",
         "1Hive/xdai-matic-connext",
         "1Hive/price-bee"
