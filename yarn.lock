@@ -2797,10 +2797,10 @@ source-map@^0.6.1:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
-sourcecred@0.8.1:
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/sourcecred/-/sourcecred-0.8.1.tgz#f2f0f1173d136c324e601d111749f9acbc05aea8"
-  integrity sha512-Cjtn7wcPTLcEFeXiP26bMcoq1kCDCuxKj6oO4nBn98H1sO6f6cWBTFEZe31WIPohZ7IagqdKtMHaOh+eNsZPYw==
+sourcecred@0.8.3:
+  version "0.8.3"
+  resolved "https://registry.yarnpkg.com/sourcecred/-/sourcecred-0.8.3.tgz#11b8b80de6d131d216e5642b1b44ca8a4c01a773"
+  integrity sha512-v9GbW8i/grdKISs5/92elfxeOa07zGH46kP3cmiWMiRnnqe0NthEiGPAaYaVJp/sa3epW9cU+E4hSVKrADqHdQ==
   dependencies:
     "@material-ui/lab" "^4.0.0-alpha.56"
     aphrodite "^2.4.0"
@@ -2836,6 +2836,7 @@ sourcecred@0.8.1:
     lodash.sortby "^4.7.0"
     lodash.sortedindex "^4.1.0"
     object-assign "^4.1.1"
+    pako "^2.0.3"
     promise "^8.1.0"
     ra-data-fakerest "^3.6.2"
     react "^16.13.0"
