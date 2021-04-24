@@ -22,8 +22,8 @@
     "site": "sourcecred site"
   },
   "devDependencies": {
+    "dotenv-cli": "^4.0.0",
     "pako": "^2.0.3",
-    "rimraf": "^3.0.2",
-    "dotenv-cli": "^4.0.0"
+    "rimraf": "^3.0.2"
   }
 }
