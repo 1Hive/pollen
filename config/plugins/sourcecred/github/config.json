@@ -46,6 +46,11 @@
         "1Hive/voting-connectors",
         "1Hive/honeyswap-landing-page",
         "1Hive/xdai-matic-connext",
-        "1Hive/price-bee"
+        "1Hive/price-bee",
+        "1Hive/celeste-dashboard",
+        "1Hive/celeste-backend",
+        "1Hive/celeste-subgraph",
+        "1Hive/celeste-contracts",
+        "1Hive/celeste-deploy"
     ]
 }
