@@ -1,0 +1,29 @@
+{
+  "name": "template-instance",
+  "version": "0.1.0",
+  "description": "A template repo for creating a SourceCred instance",
+  "repository": "git@github.com:sourcecred/template-instance.git",
+  "author": "SourceCred Team <contact@sourcecred.io>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "sourcecred": "0.8.5"
+  },
+  "scripts": {
+    "clean": "rimraf cache site",
+    "clean-all": "yarn clean && rimraf output",
+    "load": "dotenv sourcecred load",
+    "start": "dotenv sourcecred go --no-load && sourcecred serve",
+    "serve": "sourcecred serve",
+    "go": "dotenv sourcecred go",
+    "graph": "sourcecred graph",
+    "score": "sourcecred credrank",
+    "grain": "sourcecred grain",
+    "site": "sourcecred site"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^4.0.0",
+    "pako": "^2.0.3",
+    "rimraf": "^3.0.2"
+  }
+}
