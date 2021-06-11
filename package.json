@@ -19,7 +19,8 @@
     "graph": "sourcecred graph",
     "score": "sourcecred credrank",
     "grain": "sourcecred grain",
-    "site": "sourcecred site"
+    "site": "sourcecred site",
+    "update": "sourcecred update"
   },
   "devDependencies": {
     "dotenv-cli": "^4.0.0",
