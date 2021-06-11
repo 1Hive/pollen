@@ -50,6 +50,9 @@
         "1Hive/celeste-backend",
         "1Hive/celeste-subgraph",
         "1Hive/celeste-contracts",
-        "1Hive/celeste-deploy"
+        "1Hive/celeste-deploy",
+        "1Hive/honeyswap-interface",
+        "1Hive/honeyswap-subgraph",
+        "1Hive/honeyswap-sdk"
     ]
 }
