@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "sourcecred": "0.8.5"
+    "sourcecred": "0.9.0"
   },
   "scripts": {
     "clean": "rimraf cache site",
@@ -19,7 +19,8 @@
     "graph": "sourcecred graph",
     "score": "sourcecred credrank",
     "grain": "sourcecred grain",
-    "site": "sourcecred site"
+    "site": "sourcecred site",
+    "update": "sourcecred update"
   },
   "devDependencies": {
     "dotenv-cli": "^4.0.0",

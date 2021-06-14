@@ -39,7 +39,6 @@
         "1Hive/default-token-list",
         "1Hive/unipool",
         "1Hive/honeycomb-subgraph",
-        "1Hive/assistant-bee",
         "1Hive/stats",
         "1Hive/conviction-voting-cadcad",
         "1Hive/honeycomb",
@@ -51,6 +50,9 @@
         "1Hive/celeste-backend",
         "1Hive/celeste-subgraph",
         "1Hive/celeste-contracts",
-        "1Hive/celeste-deploy"
+        "1Hive/celeste-deploy",
+        "1Hive/honeyswap-interface",
+        "1Hive/honeyswap-subgraph",
+        "1Hive/honeyswap-sdk"
     ]
 }
