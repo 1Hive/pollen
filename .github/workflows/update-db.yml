@@ -1,0 +1,19 @@
+name: Update Cred DB
+on:
+  workflow_run:
+    workflows: ['Generate Cred Instance']
+    types: [completed]
+
+jobs:
+  UpdateCredDB:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: Trigger pollen-cred-fetcher Update Action
+        run: |
+          curl \
+            -X POST \
+            -u "${{ secrets.SOURCECRED_GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/1Hive/pollen-cred-fetcher/actions/workflows/update-db-entries.yml/dispatches \
+            -d '{"ref":"ref"}'
