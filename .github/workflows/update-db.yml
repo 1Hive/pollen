@@ -12,7 +12,7 @@ jobs:
         run: |
           curl \
             -X POST \
-            -H "Authorization: Bearer ${{ env.SOURCECRED_GITHUB_TOKEN }}" \
+            -H "Authorization: Bearer ${{ secrets.SOURCECRED_GITHUB_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/1Hive/pollen-cred-fetcher/actions/workflows/update-db-entries.yml/dispatches \
             -d '{"ref":"ref"}'
