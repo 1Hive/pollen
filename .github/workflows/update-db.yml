@@ -7,7 +7,6 @@ on:
 jobs:
   UpdateCredDB:
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Trigger pollen-cred-fetcher Update Action
         run: |
