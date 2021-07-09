@@ -53,6 +53,9 @@
         "1Hive/celeste-deploy",
         "1Hive/honeyswap-interface",
         "1Hive/honeyswap-subgraph",
-        "1Hive/honeyswap-sdk"
+        "1Hive/honeyswap-sdk",
+        "1Hive/pollen-onboarding",
+        "1Hive/pollen-cred-fetcher",
+        "1Hive/assistant-bee"
     ]
 }
