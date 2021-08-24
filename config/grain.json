@@ -2,11 +2,11 @@
   "allocationPolicies": [
     {
       "policyType": "BALANCED",
-      "budget": 1
+      "budget": 3
     },
     {
       "policyType": "RECENT",
-      "budget": 11,
+      "budget": 22,
       "discount": 0.4
     }
   ],
