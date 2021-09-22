@@ -57,6 +57,8 @@
         "1Hive/honeyswap-sdk",
         "1Hive/pollen-onboarding",
         "1Hive/pollen-cred-fetcher",
-        "1Hive/assistant-bee"
+        "1Hive/assistant-bee",
+        "1Hive/tulip-backend",
+        "1Hive/tulip-frontend"
     ]
 }
