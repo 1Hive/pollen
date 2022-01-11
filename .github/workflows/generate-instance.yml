@@ -23,7 +23,7 @@ jobs:
         uses: actions/cache@v2
         with:
           path: '**/cache'
-          key: SC-${{ runner.os }}-${{ hashFiles('**/config.json', '**/sourcecred.json', '**/yarn.lock') }}
+          key: SC-${{ runner.os }}-v2-${{ hashFiles('**/config.json', '**/sourcecred.json', '**/yarn.lock') }}
 
       - name: Install Packages 🔧
         run: yarn --frozen-lockfile
@@ -37,8 +37,8 @@ jobs:
       - name: Generate Frontend 🏗
         run: |
           yarn site
-          rm -rf ./site/{output,data,config,sourcecred.json}
-          cp -r ./{output,data,config,sourcecred.json,package.json,yarn.lock} ./site/
+          rm -rf ./site/{output,data,config,sourcecred.json,package.json,yarn.lock,cache,.gitignore}
+          cp -r ./{output,data,config,sourcecred.json,package.json,yarn.lock,cache,.gitignore} ./site/
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
