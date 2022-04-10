@@ -34,8 +34,15 @@ Generated Data:
 - `site/` which stores the compiled SourceCred frontend, which can display data
   stored in the instance.
 
-
 # Setup and Usage
+
+## How to clone the repo
+
+```shell
+git clone --single-branch --branch master  git@github.com:1Hive/pollen.git
+```
+
+## Setup
 
 Using this instance as a starting point, you can update the config to include
 just the plugins you want, pointing at the data you care about. We recommend setting up
